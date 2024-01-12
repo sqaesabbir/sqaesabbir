@@ -33,7 +33,11 @@ With a rich history of contributions, you can explore my work and contributions 
 <h3>📫 Let's Connect </h3>
 If you're interested in discussing quality assurance, testing methodologies, or connecting with an industry veteran, feel free to reach out on
 <br>
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sqaesabbir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sqaesabbir) 
+
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sqaesabbir) 
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sqaesabbir)
+
 <br><br>
 <b>Thanks for visiting! Let's continue to elevate software quality together! 🌟</b>
 
