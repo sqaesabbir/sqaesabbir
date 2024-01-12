@@ -2,7 +2,7 @@
 <h3>👋 Greetings! I'm Sabbir Hossain<be> </h3>
 With a seasoned background in Quality Assurance, I bring a wealth of experience to the table. My journey in software quality assurance commenced in 2021, and over the years, I've honed my skills to ensure the seamless delivery of high-quality software solutions.<br><be>
   <h3>🎯 Expertise and Specializations</h3>
-  <br>In my role as a Quality Assurance Engineer, I specialize in:<br><br><b>Test Automation Mastery:</b> Proficient in leveraging advanced tools and frameworks to automate testing processes, enhancing efficiency and reducing time-to-market.<br> <b>Exhaustive Manual Testing:</b> Meticulous examination of software to identify defects, ensuring it not only meets but exceeds specified requirements.<br><br><b>Champion of Quality Standards:</b> Implementation and adherence to industry best practices and quality standards throughout the entire software development lifecycle<br><br>
+  <br>In my role as a Quality Assurance Engineer, I specialize in:<br><br><b>Test Automation Mastery:</b> Proficient in leveraging advanced tools and frameworks to automate testing processes, enhancing efficiency and reducing time-to-market.<br> <b>Exhaustive Manual Testing:</b> Meticulous examination of software to identify defects, ensuring it not only meets but exceeds specified requirements.<br><b>Champion of Quality Standards:</b> Implementation and adherence to industry best practices and quality standards throughout the entire software development lifecycle<br><br>
 
 
 ## 🌐 Socials:
