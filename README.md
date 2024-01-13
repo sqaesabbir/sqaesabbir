@@ -9,14 +9,14 @@ With a seasoned background in Quality Assurance, I bring a wealth of experience 
 #🌱 Continuous Growth
 My belief in the continuous evolution of skills has driven me to continually expand my knowledge. Currently, I'm delving deeper into [mention any specific areas, technologies, or methodologies you're currently exploring], solidifying my position at the forefront of QA practices.
 
-#🔧 Approach to QA 
+🔧 Approach to QA 
 My approach to Quality Assurance is founded on:
 
 <b>Thoroughness:</b> A commitment to leaving no stone unturned in the identification and rectification of defects.
 <b>Collaboration:</b> A proven track record of working closely with cross-functional teams for a seamless development and testing process.
 <b>Continuous Improvement:</b> Embracing feedback and utilizing it to enhance testing processes and overall product quality.
 
-#📈 Experience in Action
+📈 Experience in Action
 With a rich history of contributions, you can explore my work and contributions to various projects, showcasing my commitment to quality and collaboration.
 
 ## 💻 Tech Stack:
