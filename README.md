@@ -6,10 +6,10 @@ With a seasoned background in Quality Assurance, I bring a wealth of experience 
 
 
 
-<h3>🌱 Continuous Growth</h3>
+#<h3>🌱 Continuous Growth</h3>
 My belief in the continuous evolution of skills has driven me to continually expand my knowledge. Currently, I'm delving deeper into [mention any specific areas, technologies, or methodologies you're currently exploring], solidifying my position at the forefront of QA practices.
 
-<h3>🔧 Approach to QA </h3>
+#<h3>🔧 Approach to QA </h3>
 My approach to Quality Assurance is founded on:
 
 <b>Thoroughness:</b> A commitment to leaving no stone unturned in the identification and rectification of defects.
