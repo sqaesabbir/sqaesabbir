@@ -28,7 +28,8 @@ With a rich history of contributions, you can explore my work and contributions 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sqaesabbir&theme=monokai&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sqaesabbir&icon=0&color=4)](https://visitcount.itsvg.in)
+![Visitors](https://rebadge.dev/github-page-views?user=sqaesabbir&label=Visitors)
+
 
 
 <h3>📫 Let's Connect </h3>
